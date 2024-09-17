@@ -13,7 +13,7 @@ title: Weicheng Xia's Profile
     </tr>
     <tr>
         <td align='left' valign='top'>
-            <img src='picture/profilepic.jpg' width='480'></img><br><br>
+            <img src='picture/profilepic.jpg' width='480'><br><br>
             厦门大学 <br><br>
             信息与通信工程 <br><br>
             邮箱：weicheng0911@yeah.net
